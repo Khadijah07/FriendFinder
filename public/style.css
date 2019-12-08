@@ -1,0 +1,22 @@
+.jumbotron {
+    background: #929292;
+  }
+  .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .body {
+    background: #e4ebf1;
+  }
+  hr {
+    border-color: inherit;
+    margin: 1em 0;
+  }
+  .title {
+    color: white;
+  }
+  #resultsModal img {
+    overflow: hidden;
+    width: 500px;
+  }
